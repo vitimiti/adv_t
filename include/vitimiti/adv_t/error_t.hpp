@@ -30,7 +30,7 @@
 #include <vitimiti/compiler/export.hpp>
 
 namespace vitimiti::adv_t {
-class API_EXPORT error_t {
+class VITIMITI_API_EXPORT error_t {
 public:
   error_t() = delete;
   constexpr explicit error_t(std::string_view const& message)

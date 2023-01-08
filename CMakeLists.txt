@@ -29,7 +29,7 @@ option(VITIMITI_ADV_T_INSTALL_LIBRARY "Whether to install the library or not"
 
 project(
   VITIMITI_ADV_T
-  VERSION 1.0.2
+  VERSION 1.0.3
   DESCRIPTION "Common advanced types for safety and ease of use"
   HOMEPAGE_URL "https://github.com/vitimiti/adv_t"
   LANGUAGES C CXX)
