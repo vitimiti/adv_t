@@ -27,8 +27,8 @@ project(VITIMITI_ADV_T_VENDOR)
 include(FetchContent)
 
 FetchContent_Declare(
-  PREPROC_CONFIG
+  VITIMITI_COMPILER
   GIT_REPOSITORY https://github.com/vitimiti/compiler.git
   GIT_TAG main)
 
-FetchContent_MakeAvailable(PREPROC_CONFIG)
+FetchContent_MakeAvailable(VITIMITI_COMPILER)
