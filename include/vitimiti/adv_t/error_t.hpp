@@ -27,7 +27,7 @@
 
 #include <string_view>
 
-#include <preproc_config/export.hpp>
+#include <vitimiti/compiler/export.hpp>
 
 namespace vitimiti::adv_t {
 class API_EXPORT error_t {

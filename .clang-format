@@ -33,7 +33,7 @@ QualifierAlignment: Right
 
 IncludeBlocks: Regroup
 IncludeCategories:
-  - Regex: '^<preproc_config'
+  - Regex: '^<vitimiti'
     Priority: 2
     SortPriority: 2
     CaseSensitive: true
